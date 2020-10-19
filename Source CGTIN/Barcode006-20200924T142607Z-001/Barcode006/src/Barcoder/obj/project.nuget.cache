@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wuzMETSl165cuq50+hML25J9WfHdup5ywgWwwFcN5xk3nJS2x5OeJtr/jM5pg/ottOPKSnzPxLEItRgP7aH6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\BC128_004\\BC128_002\\GitHub\\src\\Barcoder\\Barcoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

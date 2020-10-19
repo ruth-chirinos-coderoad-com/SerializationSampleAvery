@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Barcoder.Renderer.Svg</id>
+    <version>1.0.0</version>
+    <title>Barcoder.Renderer.Svg</title>
+    <authors>Wouter Huysentruit</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/huysentruitw/barcoder</projectUrl>
+    <description>SVG Renderer for Barcoder (.NET Framework, .NET Standard and .NET Core).</description>
+    <repository type="git" url="https://github.com/huysentruitw/barcoder" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Barcoder" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SvgLib" version="1.0.0.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Barcoder" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="SvgLib" version="1.0.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\Barcoder.Renderer.Svg.dll" target="lib\net472\Barcoder.Renderer.Svg.dll" />
+    <file src="C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\netstandard2.0\Barcoder.Renderer.Svg.dll" target="lib\netstandard2.0\Barcoder.Renderer.Svg.dll" />
+  </files>
+</package>

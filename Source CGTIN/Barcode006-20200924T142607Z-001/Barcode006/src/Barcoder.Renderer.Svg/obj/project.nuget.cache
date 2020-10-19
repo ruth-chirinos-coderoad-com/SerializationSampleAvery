@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHsr81R8SIf9q8rL+iJMJ2cBTSjwLS5EXF2eRu6nCBcV9E87CyMmAZ3DLj78vPo4e7xg84/T1purtinSakGOJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\BC128_004\\BC128_002\\GitHub\\src\\Barcoder.Renderer.Svg\\Barcoder.Renderer.Svg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\svglib\\1.0.0.1\\svglib.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Code128.ExpectedSvgOutput.txt" />
+    <None Remove="QrCode.ExpectedSvgOutput.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="QrCode.ExpectedSvgOutput.txt" />
+    <EmbeddedResource Include="Code128.ExpectedSvgOutput.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.7.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.2.0" />
+    <PackageReference Include="Moq" Version="4.12.0" />
+    <PackageReference Include="xunit" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Barcoder.Renderer.Svg\Barcoder.Renderer.Svg.csproj" />
+  </ItemGroup>
+
+</Project>

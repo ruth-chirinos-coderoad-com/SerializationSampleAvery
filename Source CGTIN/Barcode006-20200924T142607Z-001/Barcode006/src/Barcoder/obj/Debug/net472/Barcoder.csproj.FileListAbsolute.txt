@@ -1,0 +1,8 @@
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\bin\Debug\net472\Barcoder.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\bin\Debug\net472\Barcoder.pdb
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.AssemblyInfo.cs
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder\obj\Debug\net472\Barcoder.pdb

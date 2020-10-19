@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\Barcoder.Renderer.Svg.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\Barcoder.Renderer.Svg.pdb
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\SvgLib.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\Barcoder.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\bin\Debug\net472\Barcoder.pdb
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.AssemblyInfo.cs
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.csproj.CopyComplete
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.dll
+C:\Users\Owner\source\repos\BC128_004\BC128_002\GitHub\src\Barcoder.Renderer.Svg\obj\Debug\net472\Barcoder.Renderer.Svg.pdb

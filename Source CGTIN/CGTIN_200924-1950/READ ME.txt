@@ -1,0 +1,2 @@
+Unzip
+change extension from .hex to .exe
